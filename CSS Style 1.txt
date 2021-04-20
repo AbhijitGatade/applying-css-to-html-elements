@@ -1,0 +1,32 @@
+CSS Backgrounds
+
+1. background-color
+	We can set background color to any HTML element.(body, p, span...)
+
+	Inline
+	
+		<body style="background-color:red;">
+		</body>
+	Internal/External
+		<style>
+			body{
+				background-color:red;
+			}
+		</style>
+		<body>
+		</body>
+		
+2. background-image
+
+	We can background image to any HTML element.
+	
+	style="background-image:url(file.jpg)"
+	
+3. background-repeat
+
+	We can decide image fitting in background.
+	
+	style="background-repeat:cover"
+	
+https://www.w3schools.com/css/css_background.asp
+	
